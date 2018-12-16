@@ -9,4 +9,4 @@ Tarea de ayudantía de la asignatura computación paralela:
                  2) hacer que funcione en paralelo el programa.
                  
 ***El repositorio cuenta con un archivo .rar que contiene lo mismo que los demas archivos del repositorio.
-***El resultado.node y resultado.mesh se generan automaticamente al compilar el programa "triangulos"
+***El resultado.node y resultado.mesh se generan automaticamente al compilar el programa "triangulos.cbp"
