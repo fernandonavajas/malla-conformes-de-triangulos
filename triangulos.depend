@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544924742 source:c:\users\fernando\documents\c++ proyectos\triangulos\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+	<vector>
+	<math.h>
+	<cmath>
+
